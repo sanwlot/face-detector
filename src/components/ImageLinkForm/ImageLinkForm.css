@@ -1,0 +1,16 @@
+.form {
+  width: 700px;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+}
+
+.text-color {
+  color: white;
+}
+
+.bold {
+  font-weight: bold;
+}
